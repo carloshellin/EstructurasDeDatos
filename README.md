@@ -6,7 +6,7 @@ Este repositorio almacena las prácticas realizadas durante el curso 2019/2020 p
 
 Las carpetas son las siguientes:
 
-- _PECL1_ : incluye una simulación del control de aduanas en un aeropuerto con el uso de pilas, colas y listas.
+- _PECL1_: incluye una simulación del control de aduanas en un aeropuerto con el uso de pilas, colas y listas.
 - _PECL2_: ampliación de la anterior práctica con el uso de árboles.
 
 ## Uso
